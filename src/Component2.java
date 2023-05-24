@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
 
+
 public class Component2 {
     private static final String BATCH_FOLDER_PATH = "/app/data/batch/";
     private static final String CSV_FILE_PATH = "/app/data/batch/student_data.csv";
